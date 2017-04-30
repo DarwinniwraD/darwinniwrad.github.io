@@ -8,7 +8,7 @@ title:               DarwinniwraD
 tagline:             'A web developer'
 description:         'Web Developer from Shanghai'
 url:                 https://darwinniwrad.github.io/
-baseurl:             'darwinniwrad.github.io'
+baseurl:             ''
 paginate:            5
 avatar:              https://avatars1.githubusercontent.com/u/7356863?v=3&s=40
 
