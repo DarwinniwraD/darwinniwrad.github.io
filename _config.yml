@@ -8,15 +8,10 @@ title:               DarwinniwraD
 tagline:             'A web developer'
 description:         'Web Developer from Shanghai'
 url:                 https://darwinniwrad.github.io/
-baseurl:             ''
+baseurl:             'darwinniwrad.github.io'
 paginate:            5
 avatar:              https://avatars1.githubusercontent.com/u/7356863?v=3&s=40
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
 
 # sidebar social Media setting 
 footer-links:
