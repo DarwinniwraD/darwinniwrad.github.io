@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               DarwinniwraD
 tagline:             'A web developer'
-description:         'Web Developer from Shanghai'
+description:         'A web developer from Shanghai'
 url:                 https://darwinniwrad.github.io/
 baseurl:             ''
 paginate:            5
