@@ -17,5 +17,22 @@ author:
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
+# sidebar social Media setting 
+footer-links:
+  dribbble:
+  email: cliozhl@gmail.com
+  facebook:
+  flickr:
+  github: DarwinniwraD
+  instagram:
+  linkedin: louislzhang
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: ChangClio
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
 # Custom vars
 version:             1.0.0
+
