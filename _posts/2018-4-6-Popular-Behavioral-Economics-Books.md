@@ -104,6 +104,9 @@ title: Popular Behavioral Economics Books
 | How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life | Gilovich, Thomas | 1991 | 3.94 | 2228 |
 
 ===
+
 ***REFERENCE***
+
 ---
+
    [1]: ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein). Retrieved from http://www.behavioraleconomics.com. 133-135
