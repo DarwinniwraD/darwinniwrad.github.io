@@ -3,10 +3,10 @@ layout: post_table
 title: Popular Behavioral Economics Books**
 ---
 
-| Title         | Author(s)           | Pub. Year  | Average (Mean) Rating*  | Number of Ratings*  |
+| Title | Author(s) | Pub. Year  | Average (Mean) Rating*  | Number of Ratings*  |
 | :--- |:--- |: --- :|: --- :|: --- :|
-| Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked | Alter, Adam | 2017 | .81 | 506 |
-| The Enigma of Reason | Mercier, Hugo & Dan Sperber | 2017 | .08 | 12 |
+| Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked | Alter, Adam | 2017 | 3.81 | 506 |
+| The Enigma of Reason | Mercier, Hugo & Dan Sperber | 2017 | 4.08 | 12 |
 | The Knowledge Illusion: Why We Never Think Alone | Sloman, Steven & Philip Fernbach | 2017 | 3.86 | 99 |
 | Payoff: The Hidden Logic that Shapes our Motivations | Ariely, Dan | 2016 | 3.73 | 965 |
 | What Works: Gender Equality by Design | Bohnet, Iris | 2016 | 4.09 | 116 |
@@ -101,10 +101,11 @@ title: Popular Behavioral Economics Books**
 | Irrationality | Sutherland, Stuart | 1992 | 3.87 | 991 |
 | How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life | Gilovich, Thomas | 1991 | 3.94 | 2228 |
 
-===
 
 ---
 
 ***REFERENCE***
 
   ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein). Retrieved from http://www.behavioraleconomics.com. 133-135
+
+  * Ratings retrieved from goodreads.com in April 2017
