@@ -3,7 +3,8 @@ layout: post_table
 title: Popular Behavioral Economics Books
 ---
 
-### Popular Behavioral Economics Books [**][1]
+### Popular Behavioral Economics Books (**)[1]
+
 | Title         | Author(s)           | Pub. Year  | Average (Mean) Rating*  | Number of Ratings*  |
 | :-------------: |:-------------:|: -----:|: -----:|: -----:|
 | Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked | Alter, Adam | 2017 | .81 | 506 |
@@ -101,8 +102,8 @@ title: Popular Behavioral Economics Books
 | Influence: The Psychology of Persuasion | Cialdini, Robert | 1993 | 4.17 | 50351 |
 | Irrationality | Sutherland, Stuart | 1992 | 3.87 | 991 |
 | How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life | Gilovich, Thomas | 1991 | 3.94 | 2228 |
+
 ===
 ***REFERENCE***
 ---
-   [1]: ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein).
-Retrieved from http://www.behavioraleconomics.com. 133-135
+   [1]: ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein). Retrieved from http://www.behavioraleconomics.com. 133-135
