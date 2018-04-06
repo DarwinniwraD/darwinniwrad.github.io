@@ -108,4 +108,4 @@ title: Popular Behavioral Economics Books**
 
   ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein). Retrieved from http://www.behavioraleconomics.com. 133-135
 
-  * Ratings retrieved from goodreads.com in April 2017
+  \* Ratings retrieved from goodreads.com in April 2017
