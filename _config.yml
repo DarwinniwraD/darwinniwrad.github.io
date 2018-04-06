@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               DarwinniwraD
-tagline:             'A web developer'
-description:         'A web developer from Shanghai'
+tagline:             'Data Painc'
+description:         'Data Painc from Shanghai'
 url:                 https://darwinniwrad.github.io/
 baseurl:             ''
 paginate:            5
@@ -24,7 +24,7 @@ footer-links:
   linkedin:          louislzhang
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:           ChangClio
+  twitter:           #ChangClio
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
