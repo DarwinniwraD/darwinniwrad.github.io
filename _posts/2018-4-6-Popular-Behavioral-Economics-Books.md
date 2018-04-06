@@ -1,12 +1,10 @@
 ---
 layout: post_table
-title: Popular Behavioral Economics Books
+title: Popular Behavioral Economics Books**
 ---
 
-### Popular Behavioral Economics Books (**)[#cite]
-
 | Title         | Author(s)           | Pub. Year  | Average (Mean) Rating*  | Number of Ratings*  |
-| :-------------: |:-------------:|: -----:|: -----:|: -----:|
+| :--- |:--- |: --- :|: --- :|: --- :|
 | Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked | Alter, Adam | 2017 | .81 | 506 |
 | The Enigma of Reason | Mercier, Hugo & Dan Sperber | 2017 | .08 | 12 |
 | The Knowledge Illusion: Why We Never Think Alone | Sloman, Steven & Philip Fernbach | 2017 | 3.86 | 99 |
@@ -103,31 +101,10 @@ title: Popular Behavioral Economics Books
 | Irrationality | Sutherland, Stuart | 1992 | 3.87 | 991 |
 | How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life | Gilovich, Thomas | 1991 | 3.94 | 2228 |
 
-===
+---
 
 ***REFERENCE***
 
 ---
 
----
-references:
-- id: fenner2012a
-  title: One-click science marketing
-  author:
-  - family: Fenner
-    given: Martin
-  container-title: Nature Materials
-  volume: 11
-  URL: 'http://dx.doi.org/10.1038/nmat3283'
-  DOI: 10.1038/nmat3283
-  issue: 4
-  publisher: Nature Publishing Group
-  page: 261-263
-  type: article-journal
-  issued:
-    year: 2012
-    month: 3
----
-
-
-   [1]: ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein). Retrieved from http://www.behavioraleconomics.com. 133-135
+  ** Samson, A. (Ed.)(2017). The Behavioral Economics Guide 2017 (with an introduction by Cass Sunstein). Retrieved from http://www.behavioraleconomics.com. 133-135
