@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Useful way to pick up the CSS Selector
+category: [tech, css]
 ---
 
 ```

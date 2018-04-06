@@ -1,6 +1,7 @@
 ---
 layout: post
 title: jQuery模板中元素切分的三种方法
+category: [tech, javascript]
 ---
 
 ### the 1st way to split the data list

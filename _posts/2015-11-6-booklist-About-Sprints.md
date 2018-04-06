@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: category
 title: 书单 | About Sprints
+category: [books, sprints]
 ---
 
 ### 书单 | About Sprints

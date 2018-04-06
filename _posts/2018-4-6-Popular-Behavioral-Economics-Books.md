@@ -1,7 +1,10 @@
 ---
 layout: post_table
 title: Popular Behavioral Economics Books**
+category: [books, economic]
 ---
+
+
 
 | Title | Author(s) | Pub. Year  | Average (Mean) Rating*  | Number of Ratings*  |
 | :--- |:--- |: --- :|: --- :|: --- :|
