@@ -48,6 +48,14 @@
   
   <div class="sidebar-item">
     <p>
+      Categories: <br />
+      {% for category in site.categories %}
+        <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{{ category[0] | capitalize }}</a><br />
+      {% endfor %}
+    </p>
+  </div> 
+  <div class="sidebar-item">
+    <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
   </div>
