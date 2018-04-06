@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 书单 | 关于创业者的一些书单
-category: [books, sprints]
+categories: books sprints
 ---
 
 ### 书单 | 关于创业者的一些书单

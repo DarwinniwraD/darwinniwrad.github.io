@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll/Liquid Grammar"
-category: tutorial
+categories: tutorial
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: 书单 | About Sprints
-category: [books, sprints]
+categories: books
 ---
 
 ### 书单 | About Sprints

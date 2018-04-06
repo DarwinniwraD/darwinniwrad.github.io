@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 书单 | About Strategy
-category: [books, economic]
+categories: books economic
 ---
 
 ### 书单 | About Strategy

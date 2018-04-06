@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About a way to resovle the
-category: [tech, php]
+categories: tech php
 ---
 ### About a way to resovle the `“Notice  Undefined variable”` and `“Notice: Undefined index”`
 

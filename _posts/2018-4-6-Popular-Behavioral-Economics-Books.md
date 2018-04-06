@@ -1,7 +1,7 @@
 ---
 layout: post_table
 title: Popular Behavioral Economics Books**
-category: [books, economic]
+categories: books, economic
 ---
 
 

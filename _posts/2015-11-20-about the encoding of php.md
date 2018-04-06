@@ -1,7 +1,7 @@
 ---
 layout: post
 title: about the encoding of php
-category: [tech, php]
+categories: tech php
 ---
 
 

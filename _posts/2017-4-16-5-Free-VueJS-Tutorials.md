@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5个免费的vueJS 学习手册
-category: [tutorial, javascript]
+categories: tutorial, javascript
 ---
 
 ### [Learn Vue 2: Step By Step on Laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
