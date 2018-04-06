@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-KEY TAGS: Web developer, js, python, Data Science, Shanghai
+KEY TAGS: Web developer, js, python, golang, Data Visualization, Data Science, Shanghai
 
 ### More Information
 
