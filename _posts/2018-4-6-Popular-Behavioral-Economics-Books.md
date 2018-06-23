@@ -4,8 +4,6 @@ title: Popular Behavioral Economics Books**
 categories: books
 ---
 
-
-
 | Title | Author(s) | Pub. Year  | Average (Mean) Rating*  | Number of Ratings*  |
 | :--- |:--- |: --- :|: --- :|: --- :|
 | Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked | Alter, Adam | 2017 | 3.81 | 506 |
