@@ -1,12 +1,31 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Web开发
+  description: HTML5/ CSS/javascript
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: 前端框架
+  description: Vue/React/AngularJS
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: 构建工具
+  description: webpack/Gulp/parcel
+
+- skill: 数据可视化工具
+  description: Echart/d3/c3/svg，canvas
+
+- skill: 数据库相关
+  description: MySQL，pg，mongodb，redis，rabbitmq
+
+- skill: 版本管理、文档和自动化部署工具
+  description: Git/apidoc
+
+- skill: 单元测试与开发调试
+  description: jasmine/mocha/karma/sinon/Chrome DevTools/nim
+
+- skill: 开放平台
+  description: 微信应用开发
+
+- skill: 其它熟悉的技术
+  description: python/golang/ngnix/node.js
+
+- skill: 正在学习深度学习
+  description: 
+
