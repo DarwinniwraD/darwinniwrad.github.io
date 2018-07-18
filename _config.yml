@@ -52,7 +52,7 @@ resume_contact_email:           "cliozhl@gmail.com"
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     """
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>学习能力强，逻辑性强，能够快速运用新的第三方库实现项目需求<br /> 善于分析问题，解决问题<br /> 代码优雅，简洁<br /> 喜欢困难和挑战，热衷学习，善于专研相关领域技术需求，自我驱动<br /> 积极主动学习相关领域前沿技术，并及时有效地运用到正在开发的项目中，目前正在研究深度学习（ML）</p>"
