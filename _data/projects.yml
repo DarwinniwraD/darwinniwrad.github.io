@@ -10,54 +10,54 @@
 - project: 直播室 	
   role: pc版，app内嵌，推广页直播室开发
   duration: 2017.08-2018.02  
-  description: 运用react开发直播室项目，项目主要运用直播公司产品并实时与客户实现聊天互动，主要负责观点，互动页面开发与维护 
+  description: 运用react开发直播室项目，项目主要运用直播公司产品并实时与客户实现聊天互动，主要负责观点，互动页面开发与维护 <br />
              | 主要运用技术react，redux，websocket，webpack 
 
 
 - project: 汇智财经交易数据系统 	
   role: 数据可视化，界面开发，基础部分开发
   duration: 2017.12-2018.01  
-  description: 2017年12月，我开始着手汇智财经数据系统前端项目开发。由于公司业务调整，开发人员精简，所以这也是第一个由我独立开发完成的前端项目。我主要负责项目的工程化构建，网站界面开发，系统数据的可视化，作为一个集成性的交易数据平台，项目主要涵盖了交易数据查询，交易人员信息管理，交易数据实时更新，因此项目主要工作量集中在数据可视化。为了实现保持系统设计风格的一贯性，项目依然选用Material UI设计风格，提高了系统的用户感观，在数据可视化方面，先期采用chartjs和E charts混合开发，保证业务需求，继而向d3转移，提高数据渲染性能。系统投入运营后，提高了业务管理人员对相关经营业务的管理效率。 
+  description: 2017年12月，我开始着手汇智财经数据系统前端项目开发。由于公司业务调整，开发人员精简，所以这也是第一个由我独立开发完成的前端项目。我主要负责项目的工程化构建，网站界面开发，系统数据的可视化，作为一个集成性的交易数据平台，项目主要涵盖了交易数据查询，交易人员信息管理，交易数据实时更新，因此项目主要工作量集中在数据可视化。为了实现保持系统设计风格的一贯性，项目依然选用Material UI设计风格，提高了系统的用户感观，在数据可视化方面，先期采用chartjs和E charts混合开发，保证业务需求，继而向d3转移，提高数据渲染性能。系统投入运营后，提高了业务管理人员对相关经营业务的管理效率。 <br />
              | 主要运用技术vue.js(其中包括vue-router，vuex), d3.js, echarts.js, material UI, webpack, axiso, es6 
 
 
 - project: 投顾助手 	
   role: IM功能二次开发，数据可视化，新需求开发
   duration: 2017.07-2017.11  
-  description: 2017年7月，我开始接触投顾助手前端项目开发。我主要负责项目的IM功能二次开发，新需求开发。作为核心程序员，我不但完成了需求界面、开发工作，更提出了多渠道整合，通过多系统整合压缩，有效地提升了业务的系统使用便捷性。系统上线后，业务人员可以通过一个系统，完成多条业务线的客户维护工作，使得系统的使用率由原来的30%提高到80%，并且在与公司其它项目的配合下，事业部实现单日1.2亿元入金。 
-             | 主要运用技术，vuejs, websocket, socket.io, echarts， webpack，fetch, es6等 
+  description: 2017年7月，我开始接触投顾助手前端项目开发。我主要负责项目的IM功能二次开发，新需求开发。作为核心程序员，我不但完成了需求界面、开发工作，更提出了多渠道整合，通过多系统整合压缩，有效地提升了业务的系统使用便捷性。系统上线后，业务人员可以通过一个系统，完成多条业务线的客户维护工作，使得系统的使用率由原来的30%提高到80%，并且在与公司其它项目的配合下，事业部实现单日1.2亿元入金。 <br />
+             | 主要运用技术，vuejs, websocket, socket.io, echarts， webpack，fetch, es6等 <br />
 
 
 - project: IM系统 	
   role: 前端项目工程化构建、基础部分开发、网站界面开发
   duration: 2017.09-2017.10  
-  description: 2017年9月，我们团队开始开发IM系统，及相应的资源派发系统。作为核心开发人员，我主要负责项目的工程化构建，网站界面开发，im  h5聊天的具体实现，及系统数据的可视化，为了实现保持系统设计风格的一贯性，项目全面引入Material UI设计风格，提高了系统的用户感观，而且利用im系统快速搭建了一个耦合的h5聊天项目，运用webpack构建工具，一定程度上提高了项目的可管理性，当然这其中也带来一些繁冗的配置工作。系统上线后，公司业务开始逐渐减少第三方聊天服务的依赖，一定程度上保证了一些特殊业务的需求。
-             | 主要运用技术，websocket，webpack， material UI， vue及vue router和vuex等 
+  description: 2017年9月，我们团队开始开发IM系统，及相应的资源派发系统。作为核心开发人员，我主要负责项目的工程化构建，网站界面开发，im  h5聊天的具体实现，及系统数据的可视化，为了实现保持系统设计风格的一贯性，项目全面引入Material UI设计风格，提高了系统的用户感观，而且利用im系统快速搭建了一个耦合的h5聊天项目，运用webpack构建工具，一定程度上提高了项目的可管理性，当然这其中也带来一些繁冗的配置工作。系统上线后，公司业务开始逐渐减少第三方聊天服务的依赖，一定程度上保证了一些特殊业务的需求。<br />
+             | 主要运用技术，websocket，webpack， material UI， vue及vue router和vuex等 <br />
 
 
 - project: 中国电信上海公司网龄计划及其他网厅/微厅项目 	
   role: 响应式前端页面开发
   duration: 2016.11-2017.05  
-  description: 1. 根据设计稿开发响应式前端页面，调配项目主流浏览器中的兼容性； 
-             | 2. 与后端远程协作，实现所需数据传输与处理； 
-             | 3. 优化页面性能，与交互效果； 
+  description: 1. 根据设计稿开发响应式前端页面，调配项目主流浏览器中的兼容性； <br />
+             | 2. 与后端远程协作，实现所需数据传输与处理； <br />
+             | 3. 优化页面性能，与交互效果； <br />
 
 
 - project: mean_fullstack项目 	
   role: 全栈开发
   duration: 2016.09-2017.03  
-  description: 1. 利用mongodb，mongoose搭建所需基本数据库； 
-             | 2. 利用NodeJS，expressJS，与mongoose设计服务器端API，保证数据处理； 
-             | 3. 利用Angular2和Bootstrap，tug开发客户端页面； 
-             | 4. 运用Git进行版本管理与开发 
-             | 所需主要技术：NodeJS， Angular2，expressJS，Bootstrap，tug，jasmine 
-             | 主要开发工具：Sublime Text，Git，Angular CLI 
+  description: 1. 利用mongodb，mongoose搭建所需基本数据库； <br />
+             | 2. 利用NodeJS，expressJS，与mongoose设计服务器端API，保证数据处理； <br />
+             | 3. 利用Angular2和Bootstrap，tug开发客户端页面； <br />
+             | 4. 运用Git进行版本管理与开发 <br />
+             | 所需主要技术：NodeJS， Angular2，expressJS，Bootstrap，tug，jasmine <br />
+             | 主要开发工具：Sublime Text，Git，Angular CLI <br />
 
 
 - project: 湖南正润创服、上海馨野化妆品、罗曼慕斯、赫阳建筑设计等项目开发 	
   role: 前端页面开发
   duration: 2016.05-2016.08  
-  description: 1.利用web前端开发技术，如jQuery、Ajax、Css3等，实现设计效果及其交互效果； 
-             | 2. 整合，利用，转化成熟的第三方库，如animate.css, nicescrollJs, swiperJS等，提高开发质量和速度，实现敏捷开发； 
-             | 3. 与后端协作，实现数据传输与效果实现； 
-             | 主要技术：jQuery，swiper，dataScrollJS 
+  description: 1.利用web前端开发技术，如jQuery、Ajax、Css3等，实现设计效果及其交互效果； <br />
+             | 2. 整合，利用，转化成熟的第三方库，如animate.css, nicescrollJs, swiperJS等，提高开发质量和速度，实现敏捷开发； <br />
+             | 3. 与后端协作，实现数据传输与效果实现； <br />
+             | 主要技术：jQuery，swiper，dataScrollJS <br />
