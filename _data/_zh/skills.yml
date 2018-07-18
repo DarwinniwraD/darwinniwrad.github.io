@@ -1,30 +1,30 @@
 # Skills
-- skill: Web开发：HTML5/ CSS/javascript 
-  description: 
+- skill: Web开发
+  description: HTML5/ CSS/javascript
 
-- skill: 前端框架：Vue/React/AngularJS 
-  description: 
+- skill: 前端框架
+  description: Vue/React/AngularJS
 
-- skill: 构建工具：webpack/Gulp/parcel 
-  description: 
+- skill: 构建工具
+  description: webpack/Gulp/parcel
 
 - skill: 数据可视化工具: Echart/d3/c3/svg，canvas 
   description: 
 
-- skill: 数据库相关：MySQL，pg，mongodb，redis，rabbitmq 
-  description: 
+- skill: 数据库相关
+  description: MySQL，pg，mongodb，redis，rabbitmq
 
-- skill: 版本管理、文档和自动化部署工具：Git/apidoc 
-  description: 
+- skill: 版本管理、文档和自动化部署工具
+  description: Git/apidoc
 
-- skill: 单元测试与开发调试：jasmine/mocha/karma/sinon/Chrome DevTools/nim 
-  description: 
+- skill: 单元测试与开发调试
+  description: jasmine/mocha/karma/sinon/Chrome DevTools/nim
 
-- skill: 开放平台：微信应用开发 
-  description: 
+- skill: 开放平台
+  description: 微信应用开发
 
-- skill: 其它熟悉的技术：python/golang/ngnix/node.js 
-  description: 
+- skill: 其它熟悉的技术
+  description: python/golang/ngnix/node.js
 
 - skill: 正在学习深度学习 
   description: 
