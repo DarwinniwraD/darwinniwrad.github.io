@@ -17,7 +17,7 @@ I also like the sociology, geography politics, and the behavioral economics, yes
 
 ### EXPERIENCES
 
-"""Yintech""" Front-end developer -- since May, 2017
+**Yintech** Front-end developer -- since May, 2017
 
 A five-person development team technical leader. Mainly employ vue, react, angular and other page rendering frameworks, vuex, redux, flux, Rxjs and other state management tools, nodejs, webpack, gulp, websocket, git, babel, es6, svg, canvas and other technical development Huizhi financial transaction data system, Investment assistant, Real-time Chat management system, Resource Distribution System, IM Management System Development, Multi-channel Management System, Live Room, WeChat Official Account, WeChat mini-program.
 
