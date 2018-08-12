@@ -94,3 +94,10 @@ resume_theme:                   default
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
 
+# # i18n
+# languages: ["en", "zh_cn"]
+
+# exclude_from_localizations: ["javascript", "images", "css"]
+
+# gems: 
+#   - jekyll-multiple-languages-plugin
