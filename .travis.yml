@@ -11,4 +11,3 @@ deploy:
   keep-history: true
   on:
     branch: master
-    9469ab7feb52972d3a7294dca9b8da84937c69cd
